@@ -1,0 +1,3 @@
+C:/Users/omaro/Desktop/Code/C++/MAPI Extension/cmake-build-debug/CMakeFiles/MAPI_Extension.dir
+C:/Users/omaro/Desktop/Code/C++/MAPI Extension/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omaro/Desktop/Code/C++/MAPI Extension/cmake-build-debug/CMakeFiles/rebuild_cache.dir
